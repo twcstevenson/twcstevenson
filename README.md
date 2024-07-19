@@ -18,7 +18,7 @@ uses an optimisation function to calculate the ballistic coefficient (alpha) and
 of the object being observed. Alpha and beta can then be used to calculate important properties of the object,
 such as its entry mass, size, velocity and ablation coefficient.
 
-'Mass Loss Simulator' (last updated 10 July 2024)
-Beefier version of the ablation simulator included in Imaginary Meteors. It correctly predicts the trajectory and generates a simple light curve for a simulated meteoroid, given its entry state.
+'Ablation Simulator' (last updated 19 July 2024)
+Beefier version of the ablation simulator included in 'Imaginary Meteors'. It correctly predicts the trajectory and generates a simple light curve for a simulated meteoroid, given its entry state.
 Provides close matches with the trajectories of real meteoroids, such as the Winchcombe and Tekapo falls, but over-estimates terminal mass because fragmentation is not accounted for.
 Can be used to estimate the survival chance of a particular event, such as the 2023 Queensland fireball, which may have dropped meteorites.
